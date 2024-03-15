@@ -1,5 +1,7 @@
 ### Below is the assignment outline for the following project. My code can be found in the file: Data Challenge-Final
 
+### This was an individual project that was completed in April of 2023 (First Year of Graduate School)
+
 
 
 
