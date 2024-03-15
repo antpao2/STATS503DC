@@ -3,7 +3,7 @@ Below is the assignment outline for the following project. My code can be found 
 
 
 
-Introduction
+-- Introduction
 
 In this data challenge, we will use information collected during the stay of a patient in ICU to predict whether the patient will develop sepsis (0 for no sepsis and 1 for sepsis).  The data consist of records from 21634 patients and has been split into a training set (with 15144 patients) and a test set (with 6490 patients).  Outcomes are provided for the training set, and are withheld for the test set.
 
